@@ -4,9 +4,10 @@
 
 <br><br>
 Aqui você confere uma visão geral da minha atividade no GitHub:
-<div>
-<img width="200em" height="200em" alt="barbara-stats" src="https://github-readme-stats.vercel.app/api?username=barbarazaidan&show_icons=true&theme=jolly">
-<img width="200em" height="200em" alt="barbara-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarazaidan&layout=compact&theme=jolly">
+<div  style="display: flex">
+  <img width="400em" height="200em" alt="barbara-stats" src="https://github-readme-stats.vercel.app/api?username=barbarazaidan&show_icons=true&theme=jolly">
+  <img width="400em" height="200em" alt="barbara-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarazaidan&layout=compact&theme=jolly">
+</div>
 
 **Curiosidades sobre mim:**
 
@@ -17,7 +18,17 @@ fatosCuriosos = () => curiosidades.forEach((curiosidade) => console.log(curiosid
 fatosCuriosos();
 ```
 
-</div>
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
 
 
 
