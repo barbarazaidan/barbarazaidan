@@ -1,8 +1,16 @@
 ## Prazer, eu sou a Bárbara Zaidan! ✌️
 
 ### Estudo desenvolvimento web na Trybe e estou em transição de carreira da área de jornalismo
-<img src="./images/avatarBarbara">
-![avatarBarbara](https://drive.google.com/file/d/1CyLvLJgK5NE76R_wwbNKGjE5ozFuvFua/view?usp=share_link)
+<div>
+  <img align="right" height="200em" alt="barbara-avatar" src="./images/avatarBarbara.png">
+  <br>
+  <p align="justify">
+    Nasci em 1990, última década do milênio passado. Sou apaixonada por novidades, então estou sempre aprendendo algo novo, descobrindo lugares que eu nunca visitei, buscando experiências únicas e desafios para superar. 
+    Na área de tecnologia, encontrei um ambiente que me proporciona tudo isso. Diariamente sinto-me desafiada a resolver um problema lógico, criar uma solução que proporciona novas experiências, aprender uma linguagem diferente. Assim, por meio do desenvolvimento, desejo 
+  </p>
+<div>
+
+
 <br><br>
 
 Aqui você confere uma visão geral da minha atividade no GitHub:
