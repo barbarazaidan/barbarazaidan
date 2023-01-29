@@ -1,7 +1,7 @@
 ## Prazer, eu sou a Bárbara Zaidan! ✌️
 
 ### Estudo desenvolvimento web na Trybe e estou em transição de carreira da área de jornalismo
-<img src="https://drive.google.com/file/d/1CyLvLJgK5NE76R_wwbNKGjE5ozFuvFua/view?usp=share_link">
+<img src="./images/avatarBarbara">
 ![avatarBarbara](https://drive.google.com/file/d/1CyLvLJgK5NE76R_wwbNKGjE5ozFuvFua/view?usp=share_link)
 <br><br>
 
