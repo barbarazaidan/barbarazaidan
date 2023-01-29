@@ -5,8 +5,8 @@
 <br><br>
 Aqui você confere uma visão geral da minha atividade no GitHub:
 <div>
-<img height="200em" alt="barbara-stats" src="https://github-readme-stats.vercel.app/api?username=barbarazaidan&show_icons=true&theme=jolly">
-<img height="200em" alt="barbara-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarazaidan&layout=compact&theme=jolly">
+<img width="200em" height="200em" alt="barbara-stats" src="https://github-readme-stats.vercel.app/api?username=barbarazaidan&show_icons=true&theme=jolly">
+<img width="200em" height="200em" alt="barbara-languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarazaidan&layout=compact&theme=jolly">
 
 **Curiosidades sobre mim:**
 
