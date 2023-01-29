@@ -6,7 +6,8 @@
   <br>
   <p align="justify">
     Nasci em 1990, última década do milênio passado. Sou apaixonada por novidades, então estou sempre aprendendo algo novo, descobrindo lugares que eu nunca visitei, buscando experiências únicas e desafios para superar. 
-    Na área de tecnologia, encontrei um ambiente que me proporciona tudo isso. Diariamente sinto-me desafiada a resolver um problema lógico, criar uma solução que proporciona novas experiências, aprender uma linguagem diferente. Assim, por meio do desenvolvimento, desejo 
+    Na área de tecnologia, encontrei um ambiente que me proporciona tudo isso. Diariamente sinto-me desafiada a resolver um problema lógico, criar uma solução que proporciona novas experiências, aprender uma linguagem diferente. 
+    Por meio do desenvolvimento web, desejo melhorar o ambiente em que vivemos.
   </p>
 <div>
 
@@ -27,13 +28,13 @@ E estas são minhas habilidades técnicas até o momento:
   <img align="center" alt="barbara-Js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="barbara-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="barbara-Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
+   <img align="center" alt="barbara-Jest" src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white">
+  <img align="center" alt="barbara-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img align="center" alt="barbara-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="barbara-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="barbara-Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 
 ##
-
 
 **Curiosidades sobre mim:**
 
@@ -47,11 +48,7 @@ fatosCuriosos();
 <details><summary>CLICK ME</summary>
 <p>
 
-#### We can hide anything, even code!
 
-```ruby
-   puts "Hello World"
-```
 
 </p>
 </details>
