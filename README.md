@@ -50,5 +50,5 @@ fatosCuriosos();
   <a href = "mailto:babivaldez@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-  [gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg) image.
+[gif](https://github.com/barbarazaidan/snk/raw/output/github-contribution-grid-snake.gif)
   
