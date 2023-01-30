@@ -51,6 +51,4 @@ fatosCuriosos();
 </div>
   
  ##
-  
-![Snake animation](https://github.com/barbarazaidan/barbarazaidan/blob/output/github-contribution-grid-snake.svg)
 
